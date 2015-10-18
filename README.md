@@ -1,7 +1,7 @@
 # magnet2torrent
 
 
-## Developer API 
+### Developer API 
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-#### output
+##### output
 
 JSON
 
@@ -21,7 +21,7 @@ JSON
 
 
 
-#### request url
+##### request url
 
 http://torrent.whiteholic.net
 
@@ -33,7 +33,7 @@ http://torrent.whiteholic.net
 
 
 
-#### request parameter
+##### request parameter
 
 http://torrent.whiteholic.net/INFO_HASH_IN_HEX
 
