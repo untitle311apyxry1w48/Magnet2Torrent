@@ -1,4 +1,4 @@
-# magnet2torrent
+# Torrent API
 
 
 ### Developer API 
