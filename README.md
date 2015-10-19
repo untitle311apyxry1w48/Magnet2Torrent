@@ -1,4 +1,4 @@
-# Torrent API
+# Magnet to Torrent Converter 
 
 
 ### Developer API 
