@@ -2,7 +2,7 @@
 //ver1.0
 	
 
-$url = 'http://torrent.whiteholic.net/FC8A15A2FAF2734DBB1DC5F7AFDC5C9BEAEB1F59';
+$url = 'http://torrent.whiteholic.net/hash.json?q=FC8A15A2FAF2734DBB1DC5F7AFDC5C9BEAEB1F59';
 
 $ch = curl_init();
 curl_setopt ($ch, CURLOPT_URL, $url);
