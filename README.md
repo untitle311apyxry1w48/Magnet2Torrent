@@ -23,7 +23,7 @@ JSON
 
 ##### request url
 
-http://torrent.whiteholic.net/hash.json
+http://torrent.whiteholic.net/hash.json?q=INFO_HASH_IN_HEX
 
 
 
@@ -34,9 +34,6 @@ http://torrent.whiteholic.net/hash.json
 
 
 ##### request parameter
-
-http://torrent.whiteholic.net/hash.json?q=INFO_HASH_IN_HEX
-
 
 example call : http://torrent.whiteholic.net/hash.json?q=FC8A15A2FAF2734DBB1DC5F7AFDC5C9BEAEB1F59
 
